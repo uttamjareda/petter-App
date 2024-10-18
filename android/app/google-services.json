@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "971587028093",
+    "project_id": "petter-app-c8axto",
+    "storage_bucket": "petter-app-c8axto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971587028093:android:47ecbe24ebd78f61addd14",
+        "android_client_info": {
+          "package_name": "com.mycompany.petterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971587028093-c8grl3c2mgb0f1nk155kuihn1vhepa5o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.petterapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "971587028093-4tfmmf0evv2c5voeqnh007r7ojkcr6ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4_nWvrJw8zMZt6pm9YAFQx6ZN0nnRh68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971587028093-4tfmmf0evv2c5voeqnh007r7ojkcr6ml.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "971587028093-tf8nchvbutgfig9puc0f0fh2dbtodda7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.petterapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>971587028093-tf8nchvbutgfig9puc0f0fh2dbtodda7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.971587028093-tf8nchvbutgfig9puc0f0fh2dbtodda7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>971587028093-c8grl3c2mgb0f1nk155kuihn1vhepa5o.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBwwZJIJBA9Uvy_V5gkYRMSAOteEbE6oDM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>971587028093</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.petterapp</string>
+	<key>PROJECT_ID</key>
+	<string>petter-app-c8axto</string>
+	<key>STORAGE_BUCKET</key>
+	<string>petter-app-c8axto.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:971587028093:ios:9771aa55fb5a13c7addd14</string>
+</dict>
+</plist>
